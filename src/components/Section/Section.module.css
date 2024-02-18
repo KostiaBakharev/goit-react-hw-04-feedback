@@ -1,0 +1,14 @@
+.section {
+  font-size: 25px;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  padding: 20px;
+  background-color: #ebe5e5;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+}
